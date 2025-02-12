@@ -20,7 +20,7 @@ Run this Command to install the Tool.....
 
 ✅𝟴. 𝗯𝗮𝘀𝗵 𝘀𝘁𝗮𝗿𝘁.𝘀𝗵
 
-Now Enter Username of the persons id you want access)
+nava.333
 
 Then to use this tool you will be automatically redirected to our YouTube channel do aubecribe and click on Bell and come back to Termux you Will be able to use this tool for free
 
